@@ -79,7 +79,7 @@ case "$1" in
         ;;
   *|-h|--help)
         echo -e "Usage: $0 {start|stop|restart|status} <interface>
-       Utilisez -h ou --help pour afficher cette aide""
+       Utilisez -h ou --help pour afficher cette aide"
         exit 1
         ;;
 esac
